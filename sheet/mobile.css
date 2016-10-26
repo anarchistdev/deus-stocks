@@ -1,0 +1,107 @@
+.timer {
+	display: none;
+}
+
+#search-button {
+	display: none;
+}
+
+#main-quote {
+	display: none;
+}
+
+#main-title {
+	margin-left: 0px;
+	width: 330px;
+    height: auto;
+}
+
+#big-box {
+	width: 100%;
+}
+
+#clock1 {
+	display: none;
+}
+
+.about-me {
+	width: 310px;
+	margin-left: 8px;
+}
+
+.title {
+	margin-left: 70px;
+}
+
+.big {
+	margin-left: 40px;
+	font-size: 30px;
+	line-height: 2em;
+}
+
+.investment-panel {
+	width: 250px;
+	overflow:auto;
+	-webkit-overflow-scrolling: touch;
+	z-index: 2;
+	margin-left: 0px;
+}
+
+#logo {
+	display: none;
+}
+
+.titles {
+	font-size: 25px;
+}
+
+.search-bar {
+	z-index: 3;
+}
+
+.titles.investments {
+	margin-left: 45px;
+	line-height: 2em;
+}
+
+table {
+	margin-left: 10px;
+}
+
+.marketplace {
+	width: 250px;
+	overflow:auto;
+	-webkit-overflow-scrolling: touch;
+	z-index: 2;
+	margin-left: 0px;
+}
+
+.titles.market {
+	display: none;
+}
+
+table,tbody,tr,td {
+    display: block;
+}
+
+.mobile-title {
+	display: inline-block;
+	margin-left: 45px;
+	font-family: 'Ubuntu', sans-serif;
+	position: relative;
+	z-index: 1;
+	font-size: 25px;
+}
+
+.news-panel {
+	width: 250px;
+	overflow:auto;
+	-webkit-overflow-scrolling: touch;
+	z-index: 2;
+	margin-left: 0px;
+}
+
+.titles.news {
+	margin-left: 45px;
+	line-height: 2em;
+}
